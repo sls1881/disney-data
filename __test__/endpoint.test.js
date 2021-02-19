@@ -21,9 +21,10 @@ it('should respond with a disney characters', async done => {
         results: {
             id: 2,
             character_name: "Minnie Mouse",
-            birth_year: 1928,
+            created: 1928,
             wears_clothes: true,
-            species: "mouse"
+            species: "mouse",
+            url: "https://d23.com/app/uploads/2013/04/1180w-600h_minnie-mouse_1.jpg"
 
         }
     };
